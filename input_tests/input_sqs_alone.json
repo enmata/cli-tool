@@ -1,0 +1,10 @@
+[
+	{
+		"type": "sqs",
+		"name": "my-ec2-machine",
+		"properties": {
+			"type": "fifo",
+			"name": "sqs-queue2"
+		}
+	}
+]

@@ -1,0 +1,4 @@
+{
+	"type": "ec2",
+	"name": "my-ec2-machine"
+}

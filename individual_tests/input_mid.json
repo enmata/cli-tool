@@ -1,0 +1,8 @@
+{
+	"type": "ec2",
+	"name": "my-ec2-machine",
+	"subelements": {
+		"222222": "op11",
+		"sub2": "op21"
+	}
+}

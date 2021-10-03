@@ -1,0 +1,30 @@
+[
+	{
+		"type": "s3",
+		"name": "my-s3-bucket",
+		"properties": {
+			"bucket-name": "my-bucket-name-numeberone1"
+		}
+	},
+	{
+		"type": "s3",
+		"name": "my-s3-bucket",
+		"properties": {
+			"bucket-name": "my-bucket-name-numbertwo2"
+		}
+	},
+	{
+		"type": "s3",
+		"name": "my-s3-bucket",
+		"properties": {
+			"bucket-name": "my-bucket-name-numbertree3"
+		}
+	},
+	{
+		"type": "s3",
+		"name": "my-s3-bucket",
+		"properties": {
+			"bucket-name": "my-bucket-name-four4"
+		}
+	}
+]

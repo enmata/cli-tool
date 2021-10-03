@@ -1,0 +1,18 @@
+[
+	{
+		"type": "ec2BADNAME",
+		"name": "my-ec2-machine",
+		"properties": {
+			"type": "t2.micro",
+			"name": "ec2-machine-micro1"
+		}
+	},
+	{
+		"type": "ec2",
+		"nameWRONG": "my-ec2-machine",
+		"properties": {
+			"type": "t2.nano",
+			"name": "ec2-machine-nano"
+		}
+	}
+]

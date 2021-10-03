@@ -1,0 +1,25 @@
+[
+	{
+		"type": "ec2",
+		"name": "my-ec2-machine",
+		"properties": {
+			"type": "r4.2xlarge",
+			"name": "ec2-machine_withargs"
+		}
+	},
+	{
+		"type": "sqs",
+		"name": "my-sqs-queue",
+		"properties": {
+			"type": "fifo",
+			"name": "sqs-queue_withargs"
+		}
+	},
+	{
+		"type": "s3",
+		"name": "my-s3-bucket",
+		"properties": {
+			"bucket-name": "my-bucketwith3args"
+		}
+	}
+]

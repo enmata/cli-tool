@@ -1,0 +1,9 @@
+[
+	{
+		"type": "s3WRONG",
+		"name": "my-s3-bucket",
+		"properties": {
+			"bucket-name": "my-bucket-name-failing"
+		}
+	}
+]

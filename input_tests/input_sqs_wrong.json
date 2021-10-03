@@ -1,0 +1,26 @@
+[
+	{
+		"type": "sqs",
+		"name": "my-ec2-machine",
+		"properties": {
+			"type": "fifo",
+			"name": "sqs-queue-number1"
+		}
+	},
+	{
+		"type": "sqsFAILURE",
+		"name": "my-ec2-machine",
+		"properties": {
+			"type": "fifo",
+			"name": "sqs-queue-number2"
+		}
+	},
+	{
+		"type": "sqs",
+		"name": "my-ec2-machine",
+		"propertiesWRONG": {
+			"type": "fifo",
+			"name": "sqs-queue-number3"
+		}
+	}
+]
